@@ -1,3 +1,11 @@
+dde-app-services (6.8.0) unstable; urgency=medium
+
+  * perf: dde-dconfig-daemon: reuse the DBus object path regex
+  * fix(ci): pass App secrets to release workflow
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:46 +0800
+
 dde-app-services (1.0.47) unstable; urgency=medium
 
   * fix(CI): broken cppcheck
